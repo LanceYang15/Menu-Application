@@ -1,0 +1,6 @@
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\bin\Debug\MenuConsoleApplication.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\bin\Debug\MenuConsoleApplication.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\bin\Debug\MenuConsoleApplication.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\obj\Debug\MenuConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\obj\Debug\MenuConsoleApplication.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\007 Menu\Project\MenuConsoleApplication\MenuConsoleApplication\obj\Debug\MenuConsoleApplication.pdb
